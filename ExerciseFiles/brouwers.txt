@@ -1,0 +1,118 @@
+1#Achouffe#Route du Village 32#Achouffe-Wibrin#6666#10000
+2#Alken#Stationstraat 2#Alken#3570#950000
+3#Ambly#Rue Principale 45#Ambly-Nassogne#6953#500
+4#Anker#Guido Gezellelaan 49#Mechelen#2800#3000
+6#Artois#Vaartstraat 94#Leuven#3000#4000000
+8#Bavik#Rijksweg 33#Bavikhove#8531#110000
+9#Belle Vue - Molenbeek#Henegouwenkaai 33#Sint-Jans-Molenbeek#1080#0
+10#Belle Vue - Zuun#Steenweg naar Bergen#Sint- Pieters-Leeuw#1600#0
+11#Belle Vue#Delaunoy-straat 58-60#Sint-Jans-Molenbeek#1080#300000
+12#Bie (De)#Stoppelweg 26#Watou#8978#280
+13#Binchoise#Faubourg St. Paul 38#Binche#7130#700
+14#Bios#Lindenlaan 25#Ertvelde#9940#40000
+15#Blaugies#Rue de la Frontiere 435#Blaugies#7370#280
+17#Bocq#Rue de la Brasserie 4#Purnode#5530#60000
+18#Boelens#Kerkstraat 7#Belsele#9111#300
+19#Boon#Fonteinstraat 65#Lembeek#1502#2350
+20#Bosteels#Kerkstraat 92#Buggenhout#9255#50000
+21#Brunehaut#Rue des Panneries 17#Brunehaut#7623#3800
+22#Cantillon#Gheudestraat 56#Anderlecht#1070#850
+23#Caracole#Cote Marie-Therese 86#Falmignoul#5500#350
+24#Caulier#Rue Sondeveille 134#Peruwelz#7600#1500
+25#Chimay#Rue de la Trappe 294#Forges-les-Chimay#6464#100000
+26#Clarysse#Krekelput 16-18#Oudenaarde#9700#15000
+27#Cnudde#Fabriekstraat 8#Eine#9700#0
+28#Contreras#Molenstraat 115#Gavere#9890#2000
+29#Crombe#Hospitaalstraat 10#Zottegem#9620#1000
+30#Deca#Elverdingestraat 4#Woesten-Vleteren#8640#10000
+32#Dolle Brouwers#Roeselarestraat 12b#Esen- Diksmuide#8600#1200
+33#Domus#Tiensestraat 8#Leuven#3000#1000
+34#Dool#Eikendreef 21#Helchteren#3530#1500
+35#Drie Fonteinen#H. Teirlinckplein 3#Beersel#1650#180
+36#Dubuisson#Chaussee de Mons 28#Pipaix#7904#15840
+37#Dupont#Rue Basse 5#Tourpes-Leuze#7904#6000
+38#Duwac#Rue des Rossignols 20#Mouscron#7700#900
+39#Duysters#Michel Theysstraat 58 a#Diest#3290#0
+40#Ellezelloise#Guinaumont 75#Ellezelles#7890#1000
+41#Eupener#Paveestrasse 12-14#Eupen#4700#20000
+42#Eylenbosch - Maes#Ninoofsesteenweg 5#Schepdaal#1703#12000
+43#Facon#Kwabrugstraat 27#Bellegem#8510#8000
+44#Fantome#Rue Preal 8#Soy#6997#900
+45#Ferme au Chene#Rue Comte d'Ursel 36#Durbuy#6940#100
+46#Friart#Rue d' Houdeng 20#Le Roeulx#7070#18000
+47#Gaverhopke#Steenbrugstraat 187#Harelbeke- Stasegem#8530#800
+48#Gigi#Grand rue 96#Gerouville#6769#4000
+49#Girardin#Lindenberg 10#Sint-Ulriks-Kapelle#1700#3900
+50#Gouden Boom#Langestraat 45#Brugge#8000#20000
+51#Haacht#Provinciesteenweg 28#Boortmeerbeek#3190#1100000
+53#Hanssens#Vroenenbosstraat 15#Dworp#1653#500
+54#Hopduvel#Coupure links 625#Gent#9000#550
+55#Hopperd#Matestraat 7#Ramsel#2230#0
+56#Huyghe#Brusselsesteenweg 282#Melle#9090#50000
+57#John Martin#Rue du Cerf 191#Genval#1332#0
+58#Jupiler#Rue de Vise 243#Jupille-sur-Meuse#4020#2200000
+59#K.I.H.O.#Gebroeders de Smetstraat 1#Gent#9000#0
+60#Keersmaeker (De)#Lierput 1#Kobbegem#1730#60000
+62#Koninck - Antwerpen (De)#Mechelsesteenweg 291#Antwerpen#2018#140000
+64#Lefebvre#Rue de Croly 54#Quenast#1430#15000
+65#Leroy#Diksmuideseweg 406#Boezinge#8904#32000
+66#Liefmans#Aalststraat 200#Oudenaarde#9700#10000
+67#Lindemans#Lenniksebaan 1479#Vlezenbeek#1602#19000
+68#Louwaege#Markt 14#Kortemark#8610#22000
+69#Maes#Waarloosveld 10#Waarloos#2550#1150000
+70#Martens#Reppelerweg 1#Bocholt#3950#600000
+71#Meesters#Hoogstraat 50#Galmaarden#1570#160
+72#Mibrana#Place de la station 2#Namur#5000#380
+73#Miroir#Koningin Astridplein 24-26#Jette#1090#100
+74#Moortgat#Breendonkdorp 58#Breendonk-Puurs#2870#250000
+75#Old Bailey#Kerkplein 5#St.-Eloois-Winkel#8880#1200
+76#Oleye#Rue d'Elmette 39#Oleye-Waremme#4300#200
+78#Orval#Orval 2#Villers-devant-Orval#6823#37000
+79#Paeleman#Boekakker 1#Wetteren#9230#350
+80#Pakhuis#Vlaamse kaai 76#Antwerpen#2000#1200
+81#Palm#Steenhuffeldorp 3#Steenhuffel#1840#530000
+82#Pater Van Damme#Jacob Van Maerlantstraat 2#Damme#8340#7
+83#Praile#Rue de la Praile 3#Peissant#7120#24
+84#Proefbrouwerij#Smalle Heerweg 78#Lochristi#9080#500
+85#Ranke#Brugstraat 43#Wevelgem#8560#100
+86#Regenboog#Astridlaan 134#Assebroek-Brugge#8310#0
+87#Riva#Wontergemstraat 42#Dentergem#8720#115000
+88#Roberg#Rodebergstraat 46#Westouter#8954#1000
+89#Rochefort#Rue de l'abbaye 8#Rochefort#5580#15000
+90#Rochefortoise#Rue du Treux 43b#Eprave#5580#0
+91#Rocs#Chaussee Brunehaut 37#Montignies-sur-Roc#7387#500
+92#Rodenbach#Spanjestraat 133#Roeselare#8800#150000
+93#Roman#Hauwaert 61#Oudenaarde-Mater#9700#100000
+94#Ruwet#Rue Victor Besme 27#Verviers#4800#100
+95#Ryck (De)#Kerkstraat 28#Herzele#9550#6000
+96#Schuur#Gobbelsrode 75#Kortrijk-Dutsel#3220#0
+97#Silenrieux#Rue Noupre 1#Silenrieux#5630#500
+98#Silly#Ville Basse A 141#Silly#7830#12000
+99#Slaghmuylder#Denderhoutembaan 2#Ninove#9400#6500
+100#Smedt (De)#Ringlaan 18#Opwijk#1745#50000
+101#St. Bernardus#Trappistenweg 23#Watou#8978#13000
+102#St. Guibert#Rue de Riquau 1#Mont-Saint-Guibert#1435#350000
+103#St. Jozef#Itterplein 19#Opitter#3960#65000
+104#Steedje#Schoolstraat 45b#Ettelgem#8460#1000
+105#Sterkens#Meerdorp 20#Meer#2321#8613
+106#Straffe Hendrik#Walplein 26#Brugge#8000#5800
+107#Strubbe#Markt 1#Ichtegem#8480#20000
+108#Timmermans#Kerkstraat 11#Itterbeek#1701#10000
+109#Tour#Rue Chera 9#Comblain-la-Tour#4180#240
+110#Troch (De)#Langestraat 20#Ternat-Wambeek#1741#3500
+111#Union#Rue Derbeque 7#Jumet#6040#200000
+112#Van Den Bossche#Sint-Lievensplein 16#Sint- Lievens-Esse#9550#1700
+113#Van Eecke#Douvieweg 2#Watou#8978#10000
+114#Van Honsebrouck#Oostrozebekestraat 43#Ingelmunster#8770#80000
+115#Vander Linden#Brouwerijstraat 2#Halle#1500#2000
+116#Vandervelden Henri#Laarheidestraat 230#Beersel#1650#500
+117#Vapeur#Rue de Marechal 1#Pipaix-Leuze#7904#1000
+118#Verhaeghe#Beukenhofstraat 96#Vichte#8570#7200
+119#Vervifontaine#xxx#fontaine-Jalhay#6140#0
+120#Villers#Liezeledorp 37#Liezele-Puurs#2870#1450
+121#Walrave#Lepelstraat 36#Laarne#9270#2500
+122#Weldebroec#Mechelse Steenweg 53#Willebroek#2830#800
+123#Westmalle#Antwerpsesteenweg 496#Malle#2390#125000
+124#Westvleteren#Donkerstraat 12#Westvleteren#8640#4000
+125#Wieze#Nieuwstraat 1#Wieze#9280#120000
+126#Zwingel#Damweg 6#Harelbeke#8530#250

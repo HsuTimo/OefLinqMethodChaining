@@ -1,0 +1,1213 @@
+7#Aardbeien witbier#2,5#56#53
+8#Aarschots kruikenbier (=St. Sebastiaan grand cru)#7,6#105#15
+10#Abt Bijbier (Nen)#7#33#18
+11#Adler#6,75#51#42
+12#Aerts 1900#7#81#14
+13#Affligem blond (Abdij)#7#100#33
+14#Affligem christmas ale (Abdij)#9#100#36
+15#Affligem dubbel (Abdij)#7#100#14
+16#Affligem patersvat#7#100#33
+17#Affligem tripel (Abdij)#8,5#100#59
+18#Akila pilsener#5#68#42
+20#Aldegonde brune#8,5#72#36
+21#Aldegonde cuvee#7,5#72#15
+22#Aldegonde speciale#8,5#72#36
+23#Ale brau (=Vega pils)#5#58#42
+24#Alexander Rodenbach#6#92#62
+25#Alfa (=Huyghe blond)#2#56#51
+26#Alfri#0,8#93#2
+27#Alken faro#1,3#2#51
+28#Alken faro#1,3#69#51
+29#Alken special blonde#1,4#2#51
+30#Alken special blonde#1,4#69#51
+31#Alken-Maes export#4,5#69#42
+32#All Black#6#21#18
+34#Ambiorix dubbel#8#99#14
+38#Amelie#8#76#15
+39#Amelie cerise#6,2#76#18
+40#Amuzantje (=Lamoral Degmont)#8#112#15
+41#Anglo pils#4,8#2#42
+42#Ankerpils (=Wieze pils)#5#125#42
+43#Anpavi (=Mengsel La Folie/Saison de Pipaix)#7,5#117#15
+48#Anvinoise  (=Beloeil (La biere de))#8,5#37#15
+49#Arabier#8#32#11
+51#Ardenne blonde (Biere d')#8#21#15
+52#Argus pils (=Premium pilsener)#5#70#42
+53#Argus witte (=Limburgse witte)#5#103#53
+54#Arjaun (=Lamoral Degmont)#8#112#15
+55#Aro pils (=Haacht pils)#4,7#51#42
+58#Arsouye blonde  (=St. Benoit blonde)#6,5#17#33
+59#Arsouye brune  (=St. Benoit brune (brassin special))#8,5#17#36
+60#Artevelde#5,7#56#6
+61#Artevelde grand cru#6,7#56#33
+62#Artevelde grand cru op gist#7#56#33
+63#Artevelde op gist#7#56#18
+64#Artisan reuzebier#8,3#29#15
+65#Astor#8#56#15
+66#Atlas (=Vega pils)#5#58#42
+68#Augustijn#8#14#15
+69#Augustijn grand cru#9#14#21
+70#Aulne 6 sur lie (Abbaye d')#6#100#14
+71#Aulne 8 selection (Abbaye d')#8#100#14
+72#Aulne 10 superbe (Abbaye d')#10#100#36
+73#Aulne blonde des peres (Abbaye d')#7#100#33
+74#Aulne super noel (Abbaye d')#7#100#14
+75#Aulne triple (Abbaye d')#9#100#59
+77#Autreppe (Special)#9#91#21
+78#Auveloise (=Bonne Esperance (Abbaye de))#8#64#15
+79#Bacchus#4,5#114#62
+80#Bakelandt (=Poperings hommelbier)#7,5#113#15
+81#Balens kruierke#6,2#56#18
+82#Ballotil  (=Mengsel La Folie/Saison de Pipaix)#7,5#117#15
+84#Baptiste (=Riva triple abdij)#7,2#87#15
+85#Barbar#8#64#15
+86#Bass pale ale#5,2#6#4
+87#Bastions cuvee speciale (Les)#7#21#18
+89#Bavaro#3,4#51#51
+90#Bavik dinner beer blond#1,7#8#51
+91#Bavik dinner beer faro#1,7#8#51
+92#Bavik export#5#8#42
+93#Bavik premium pils#5,5#8#42
+94#Bavik triple bock#2,8#8#51
+95#Bavik witbier#5#8#53
+97#Becasse framboise lambic  (=Belle Vue frambozen)#5,2#11#22
+98#Becasse gueuze lambic  (=Belle Vue gueuze)#5,2#11#22
+99#Becasse kriek  (=Belle Vue kriek)#5,2#11#22
+100#Becasse kriek primeur '96#5#11#22
+101#Becasse lambik  (=De Neve lambik)#5#9#31
+102#Bel pils#5,3#74#42
+103#Belgian ale traditional gueuze#6#19#22
+105#Belgo (=Dupont biologique (Saison))#5,5#37#18
+106#Bell christmas#8#93#14
+108#Belle Vue framboise#5,2#11#22
+109#Belle Vue frambozenlambik#5#9#56
+110#Belle Vue gueuze#5,2#11#22
+111#Belle Vue kriek#5,2#11#22
+112#Belle Vue kriek L.A.#1,2#11#22
+113#Belle Vue kriekenlambik#5#9#56
+114#Belle Vue lambik#5#9#56
+115#Belle Vue Selection Lambic gueuze#5,2#9#55
+117#Bellegems witbier#5#43#53
+118#Beloeil (La biere de)#8,5#37#15
+119#Belseels kerstbier#8#18#14
+120#Berenbier/Biere des Ours#8,5#13#36
+121#Bergenbrau#4,3#6#42
+122#Bergeotte normale  (=Regal (Saison))#6#17#18
+123#Bergeotte speciale  (=St. Benoit brune (brassin special))#8,5#17#15
+124#Beselaars Heksenbier (=Poperings hommelbier)#7,5#113#15
+125#Bieken#8,5#18#15
+127#Bier voor Vader "A"#5#14#42
+128#Bier voor Vader "D"#5#14#42
+129#Bier voor Vader "E"#5#14#42
+130#Bier voor Vader "R"#5#14#42
+131#Bier voor Vader "V"#5#14#42
+132#Biertoren blond#0#56#51
+133#Biertoren bruno#1,5#56#51
+134#Biertoren special#1,5#56#51
+135#Big Chouffe (=Chouffe )#8#1#15
+136#Billekarreke (=Riva triple abdij)#7,2#87#15
+137#Bilzers bruin#7,5#103#14
+138#Binchoise blonde  (=St. Benoit blonde)#6,5#17#33
+139#Binchoise brune  (=St. Benoit brune (brassin special))#8,5#17#36
+140#Binchoise special noel#9#13#21
+143#Bios blond#2,4#14#51
+144#Bios bruin#2,4#14#51
+145#Bios Vlaamse bourgogne#5,5#14#62
+146#Bisounette  (=St. Benoit brune)#6,5#17#18
+147#Black Gosh#8#44#15
+150#Bleeken Moriaen (=Kapittel abt (Het))#10#113#21
+155#Blok-bok (Nen)#7#33#12
+156#Blondine#8#54#15
+157#Boals kruikenbier triple (=St. Sebastiaan grand cru)#7,6#105#59
+159#Bock premium pils#5,4#81#42
+160#Bockhauser pils (=Haacht pils)#4,7#51#42
+166#Boeg pils#5#70#42
+167#Bois Bouquet (Trappiste du)#9#91#36
+168#Bokkereyer#5,8#103#6
+169#Bokrijk hoevebier 6#6#105#18
+170#Bokrijk hoevebier 8#8#105#15
+171#Bokrijks kruikenbier#7,2#105#15
+172#Bol d'or#5,2#39#33
+173#Bonde (Biere de la) (=Kapittel abt (Het))#10#113#21
+174#Bonne Esperance (Abbaye de)#8#64#15
+175#Bons voeux (Avec les -- de la brasserie)#9,5#37#21
+176#Boon frambozenbier#6#19#55
+177#Boon frambozenbier 1986#6#19#55
+178#Boon geuze#6#19#55
+179#Boon geuze mariage parfait#6#19#55
+180#Boon kriek#5#19#55
+181#Boon kriek mariage parfait#6#19#55
+182#Boon lambik#6#19#56
+184#Bornem dubbel#8#14#14
+185#Bornem tripel#9#14#59
+186#Bosbier#5#103#18
+187#Boskeun#7#32#33
+188#Bosquetia#7,5#17#14
+189#Boucanier (Biere du) (=Piraat)#10,5#14#21
+190#Bourgogne des Flandres#6,5#108#60
+191#Bousval blonde speciale (=Floreffe blonde)#7#64#33
+192#Bousval brune speciale (=Floreffe double)#7#64#14
+193#Boxer christmas beer (=Affligem christmas ale)#9#100#36
+196#Brave Broeder (=Super 64)#5#98#18
+197#Brigand#9#114#21
+198#Brigand christmas#9#114#21
+199#Brogne donker (Abbaye de) (=Affligem dubbel (Abdij))#7#100#14
+200#Brogne triple (Abbaye de) (=Affligem tripel (Abdij))#8,5#100#59
+201#Broqueroise de l'abbaye de St. Denis  (=Moinette blonde)#8,5#37#15
+202#Brouwers van de Dijle (De) (=Lamot pilsor)#5,2#6#42
+204#Brouwmeester alcohol vrij bier#0,4#2#2
+205#Brouwmeester pilsener#5#70#42
+207#Brug ale Belge#5#98#6
+209#Brugs tarwebier#5#50#53
+210#Brugse straffe Hendrik#6,5#106#33
+211#Brugse tripel#9,5#50#59
+213#Brunehaut tradition amber#6,5#21#18
+214#Brunehaut villages blond#6,5#21#33
+215#Brunette#9#54#36
+216#Bruocsella 1900 grand cru#5#22#56
+217#Brussels gold (=Pax pils)#4,6#103#42
+218#Brussels gold (=Pax pils)#5#103#42
+219#Brussels white (=Limburgse witte)#5#103#53
+220#Brusselse witte (=Student)#4,5#64#53
+221#Bruyere blonde  (=Fakir)#6,8#13#33
+222#Bruyere brune  (=Reserve Marie de Hongrie)#8,7#13#36
+223#Bruynen Moriaen (=Kapittel prior (Het))#9#113#36
+224#Buffalo#5#112#14
+225#Bumke (=Pater Lieven)#5,5#112#14
+227#Bush beer#12#36#21
+228#Bush beer 7#7,5#36#15
+229#Bush de Noel#12#36#21
+230#Buxus blonde  (=Fakir)#6,8#13#33
+231#Buxus brune  (=Reserve Marie de Hongrie)#8,7#13#36
+232#C.T.S. Scotch#7,5#6#46
+233#Cambrinus#4,9#118#6
+234#Campagnarde  brune#9,5#83#36
+235#Campbell's christmas#8,3#6#46
+236#Campbell's scotch#6,8#6#46
+238#Campus#7#56#33
+239#Campus gold#6#56#33
+240#Canebiere#8#44#15
+241#Cantillon faro#5#22#54
+242#Cantillon kriek#5#22#55
+243#Cantillon kriek lambik#5#22#56
+244#Cantillon lambik#5#22#56
+245#Cantillon super gueuze#5#22#55
+246#Cara pils#5#69#42
+247#Caracole ambree#7#23#18
+249#Caracole brune#7#23#14
+250#Caramel biere de table#1,5#41#51
+252#Carioca classic#5#56#18
+253#Carnav-ale (kruik) (=St. Sebastiaan grand cru)#7,6#105#15
+254#Caves#5,5#118#18
+255#Caza cuvee speciale (=Mengsel La Folie/Saison de Pipaix)#7,5#117#15
+256#Celis pale bock#5,5#100#25
+258#Celis white#5#100#53
+260#Cervesia#8,5#37#15
+261#Cervoise de l'Avouerie d'Anthisnes (=Silly (Saison))#5#98#18
+262#Cervoise de l'Ecluse blonde  (=Fakir)#6,8#13#33
+263#Cervoise de l'Ecluse brune  (=Reserve Marie de Hongrie)#8,7#13#36
+264#Cervoise de Leptines (=Beloeil (La biere de))#8,5#37#15
+265#Cervoise de St. Gery  (=Moinette blonde)#8,5#37#15
+266#Cervoise des Ancetres grand cru (=St. Sebastiaan grand cru)#7,6#105#15
+267#Cervoise des Francs-Gaulois  (=Moinette blonde)#8,5#37#15
+268#Cezarken#5,5#29#18
+269#Chapeau abricot lambic#3#110#31
+270#Chapeau exotic#3#110#31
+271#Chapeau faro#4,75#110#19
+272#Chapeau fraises lambic#3#110#31
+273#Chapeau framboise#3#110#31
+274#Chapeau gueuze#5,5#110#22
+275#Chapeau kriek#3#110#31
+276#Chapeau mirabelle#3#110#31
+277#Chapeau peche#3#110#31
+278#Chapeau tropical#3#110#31
+281#Charlemagne (=Delirium Tremens)#9#56#21
+282#Charleroi (Blanche de)#7#21#53
+283#Charles Quint#7#51#14
+284#Chateau Saint-Henri Cuvee speciale#4,5#72#53
+285#Chimay blauw#9#25#36
+286#Chimay cinq cents (=Chimay wit)#8#25#15
+287#Chimay grande reserve (=Chimay blauw)#9#25#36
+288#Chimay premiere (=Chimay rood)#7#25#14
+289#Chimay rood#7#25#14
+290#Chimay wit#8#25#15
+291#Chouffe#8#1#15
+292#Chouffe-bok 6666#6,66#1#12
+293#Christmas-Beer#8#29#15
+294#Ciney blonde#7#111#33
+295#Ciney brune#7#111#14
+296#Ciney speciale#9#111#21
+301#Clermontoise  (=Ploquette )#7,5#94#15
+302#Club de Stella Artois#5,9#6#42
+303#Cnudde kriek#4,7#27#61
+304#Cnudde Oudenaards bruin#4,7#27#61
+305#Cochonette#9,5#117#21
+306#Con Domus (Nen)#5#33#11
+307#Contra-pils#4,8#28#42
+308#Contreras martzen bier#5,8#28#35
+309#Coq Hardi biere blonde de luxe#4,8#51#42
+310#Coq Hardi biere bock#3,4#51#51
+311#Coq Hardi pils (=Haacht pils)#4,7#51#42
+312#Coq Hardi speciale#6#51#42
+314#Corsaire biere rouge (Biere du)#7#56#18
+316#Corsendonk Agnus (=Moine (triple))#8#17#15
+317#Corsendonk Pater (=Bornem dubbel)#8#14#14
+318#Couckelaerschen Doedel#6#107#18
+320#Coy'Heimsen (=Kapittel pater (Het))#6,5#113#18
+321#Crack pils (=Sas pils)#4,7#65#42
+322#Cristal Alken#4,8#2#42
+323#Crupetoise  (=St. Benoit brune)#6,5#17#18
+324#Cubana '59#4,5#57#18
+327#Cuvee 100 ans Domaine du Bois d'Anchin#9#91#21
+328#Cuvee Chateau des Flandres#8#54#14
+329#Cuvee d'Aristee - biere au miel#9,5#83#21
+330#Cuvee d'Aristee speciale noel#9,5#83#36
+332#Cuvee de Briqville (=Augustijn)#8#14#15
+333#Cuvee de Francorchamps (=Bonne Esperance (Abbaye de))#8#64#15
+334#Cuvee De Koninck#7,7#62#15
+335#Cuvee de l'An Neuf#8,5#23#49
+336#Cuvee de l'Ascension blonde (=Floreffe blonde)#7#64#33
+337#Cuvee de l'Ermitage#7,23#111#14
+338#Cuvee de l'Ermitage christmas#7,5#111#14
+340#Cuvee de la Gate#6,5#44#18
+341#Cuvee de la Pucelette (=Floreffe blonde)#7#64#18
+343#Cuvee de la Vieille Auberge (=Fagnes (Blonde des))#8#119#15
+344#Cuvee de Namur blonde#7,3#56#15
+345#Cuvee de Namur brune#6,7#56#14
+349#Cuvee de Winamplanche (=Mengsel La Folie/Saison de Pipaix)#7,5#117#15
+350#Cuvee de'l Sin Djosef#8#44#15
+351#Cuvee des Flandres triple#7#56#59
+352#Cuvee des moissons blonde (=Vapeur en folie )#8#117#15
+353#Cuvee des tietes de pipes blonde (=Fakir)#6,8#13#33
+354#Cuvee des tietes de pipes brune (=Reserve Marie de Hongrie)#8,7#13#36
+356#Cuvee du P'tit Lu (=Regal (Saison))#6#17#18
+359#Cuvee du Spartacus blonde (=Floreffe blonde)#7#64#33
+360#Cuvee du Spartacus brune (=Floreffe double)#7#64#14
+361#Cuvee du Tcheste (=Mc Chouffe)#8,5#1#15
+362#Cuvee du Tronquoy (=Pipaix (Saison de))#6,5#117#18
+364#Cuvee Jean d'Avesnes ambree#9#91#21
+365#Cuvee Jean d'Avesnes blanche#9#91#21
+366#Cuvee Li Crochon (=St. Benoit brune (brassin special))#8,5#17#15
+367#Cuvee Melletoise (=Floreffe blonde)#7#64#18
+369#Cuvee Rene grand cru (=Lindemans gueuze gefilterd)#5#67#22
+370#Cuvee Saint. Roch (=Soleilmont double)#6,2#64#18
+371#Cuvee speciale blanche des Bastions#5#21#53
+373#Cuvee speciale du 80e (=Mengsel La Folie/Saison de Pipaix)#7,5#117#15
+376#Cuvee speciale Patro Salette (=Mengsel La Folie/Saison de Pipaix)#7,5#117#15
+377#Cuvee St-Francois Xavier#7,5#72#15
+379#Cuvee St. Berthuin (=Floreffe blonde)#7#64#18
+380#Cuvee St. Hadelin blonde (=St. Benoit blonde)#6,5#17#33
+381#Cuvee St. Hadelin brune (=St. Benoit brune)#6,5#17#14
+387#Daens#7,5#113#15
+388#Daiselnaere (=Steenbrugge (Abdij))#6,5#50#18
+389#Darbyste (Biere)#5,8#15#14
+390#De Koninck#5#62#6
+392#De Koninck gueuze (=De Neve gueuze ongefilterd)#5,2#11#55
+393#De Koninck kriek (=De Neve kriek)#5,2#11#55
+395#De Neve frambozen#5,2#11#22
+396#De Neve gueuze gefilterd#5,2#11#22
+397#De Neve gueuze ongefilterd#5,2#11#55
+398#De Neve kriek#5,2#11#22
+399#De Neve lambik#5#9#56
+400#De Ryck (Special)#4,2#95#33
+401#De Ryck christmas pale ale#4,7#95#6
+402#De Ryck kriek#4,7#95#18
+403#De Troch gueuze ongefilterd#5,5#110#55
+404#Deca Lux pils#0#30#42
+405#Deins paasbier#8#112#14
+406#Delhaize blond tafelbier (=Piedboeuf blonde)#0#58#51
+407#Delhaize bruin tafelbier (=Piedboeuf dubbel - foncee)#0#58#51
+408#Delhaize christmas (=Affligem christmas ale (Abdij))#9#100#36
+409#Delhaize wit bier#5#100#53
+410#Delirium Tremens#9#56#21
+411#Dentergems witbier - Riva blanche#5#87#53
+412#Derby blond (=Piedboeuf blonde)#1,7#58#51
+413#Derby bruin (=Piedboeuf dubbel - foncee)#1,7#58#51
+414#Derby pils (=Haacht pils)#4,7#51#42
+415#Deugniet (=Moine (triple))#8#17#15
+416#Dieleghem ambree (Abbaye de)#6,5#64#6
+417#Dieleghem blonde (Abbaye de) (=Floreffe blonde)#7#64#33
+418#Dieleghem foncee (Abbaye de) (=Floreffe double)#7#64#14
+419#Dikke Mathile#6#107#18
+420#Dikkenek#5,1#100#14
+421#Dirk Martensbier (=Bornem tripel)#9#14#59
+422#Divine#9,5#98#36
+423#Dobbelken (=Ichtegem's oud bruin)#4,9#107#62
+424#Dolmenius (=St. Benoit blonde)#6,5#17#18
+425#Domaine du bois d'Anchin#9#91#21
+426#Domein bleek (=Augustijn)#8#14#15
+427#Domein donker (=Bornem dubbel)#8#14#14
+428#Dommelsch malt#0,1#6#3
+431#Double Enghien blonde#7,5#98#15
+432#Double Enghien brune#8#98#14
+433#Doux chemin de l'amour (Le) (=Fagnes (Blonde des))#8#119#15
+434#Drie Fonteinen faro#5#35#54
+435#Drie Fonteinen frambozenlambik#5#35#56
+436#Drie Fonteinen gueuze#5#35#55
+437#Drie Fonteinen kriek#5#35#55
+438#Drie Fonteinen kriek van het vat#5#35#55
+439#Drie Fonteinen kriekenlambik#5#35#56
+442#Drongens plezierke (=Ambiorix dubbel)#8#99#15
+443#Drossaard blond#7#56#33
+444#Drossaard donker#7#103#14
+445#Duchesse de Bourgogne#6,2#118#62
+446#Duivels bier#6#115#60
+447#Dulle Teve#10#32#11
+448#Dupont biologique (Saison)#5,5#37#45
+449#Dupont vieille provision (Saison)#6,5#37#45
+450#Durboyse ambree#7#64#18
+451#Durboyse blonde#8#64#15
+452#Durboyse blonde  (=Floreffe blonde)#7#64#33
+453#Durboyse brune  (=Floreffe double)#7#64#14
+454#Duvel groen#7,5#74#15
+455#Duvel rood#8,5#74#15
+456#Eautex de Brunehaut#6#21#18
+457#Ecume des jours#7#21#18
+458#Edel-Brau#0,1#107#3
+461#El Vert Doudou (=Pipaix (Saison de))#6,5#117#18
+462#El' Simpelourd#6,5#21#18
+465#Ename dubbel#6,5#93#14
+466#Ename tripel#9#93#59
+467#Engel (Nen)#8#33#14
+468#Engeltjes bier#10#104#36
+469#Ensor#6,5#107#18
+472#Epeautre (Saison d')#6#15#45
+473#Erezee (Saison d') - Automne#7#44#18
+474#Erezee (Saison d') - Ete#7#44#18
+475#Erezee (Saison d') - Hiver#8#44#15
+476#Erezee (Saison d') - Printemps#6,2#44#18
+478#Essen Bakkersmolen Wildert blond#6#91#33
+479#Essen Bakkersmolen Wildert bruin#6#91#14
+480#Etoile (La speciale) (=Vapeur rousse )#8#117#15
+481#Eupener caramel#1,8#41#51
+482#Eupener export#4#41#42
+483#Eupener extra light#2,5#41#34
+484#Eupener klosterbier special bock#6,5#41#12
+485#Eupener pils#4,5#41#42
+487#Eurotica#9,5#117#21
+488#Ever#5#14#33
+489#Eylenbosch framboise lambic#4#42#22
+490#Eylenbosch gueuze lambic#4#42#22
+491#Eylenbosch kriek lambic#4#42#22
+492#Ezel (=Gapers bier)#7#118#18
+494#Facon export#4,5#43#42
+495#Facon extra stout#5,4#43#49
+496#Facon oud bruin#4,5#43#62
+497#Facon pils#4,7#43#42
+498#Facon scotch-christmas#6,1#43#46
+499#Facon tafelbier blond#1,5#43#51
+500#Facon tafelbier bruin#1,5#43#51
+503#Fagnes (Blonde des)#8#119#15
+504#Fagnes (Rousse des)#8#119#15
+505#Fakir#6,8#13#33
+508#Fancy#1,5#8#8
+510#Fantome#8#44#14
+511#Fantome brewery (The best of)#12#44#36
+512#Fantome de noel#8#44#14
+513#Fantomette#8#44#15
+516#Felix kriekbier#5#26#61
+517#Felix Oudenaards kriekbier#6#26#61
+518#Felix Oudenaards oud bruin#5,5#26#61
+519#Felix pils#5#26#42
+520#Felix speciaal Oudenaards#4,8#26#61
+522#Feuilles Mortes (Les) (=Moinette blonde)#8,5#37#15
+523#Fiertelbier (=Kapittel abt (Het))#10#113#21
+525#Filee  (=Augustijn)#8#14#15
+526#Fink brau (=Premium pilsener)#5#70#42
+527#Fink brau (=Wieze pils)#5#125#42
+528#Fire fox#7#56#18
+529#Fitt#15#125#2
+530#Flanders triple grand cru (=St. Sebastiaan grand cru)#7,6#105#15
+532#Flandrien#5#68#18
+533#Fleurie de Wanze#8#1#15
+534#Flierefluiter (Ne) (=Affligem blond (Abdij))#7#100#18
+537#Floreffe (Blanche de)#5#64#53
+538#Floreffe blonde#6,5#64#33
+539#Floreffe double#7#64#14
+540#Floreffe la meilleure#8#64#36
+541#Floreffe triple (=Bonne Esperance (Abbaye de))#7,5#64#59
+542#Florisgaarden chocolat#3#56#53
+543#Florisgaarden fraises#3#56#53
+544#Florisgaarden griotte#3#56#53
+545#Florisgaarden ninkeberry#3#56#53
+546#Florisgaarden passion#3#56#53
+547#Florisgaarden witbier#5#56#53
+548#Florival blond (Abdij) (=Affligem blond (Abdij))#7#100#33
+549#Florival bruin (Abdij) (=Affligem dubbel (Abdij))#7#100#14
+550#Foire verte de l'eau d'heure cuvee speciale#6#97#18
+552#Follie  (=Vapeur legere)#4,5#117#34
+553#Foret (=Dupont biologique (Saison))#5,5#37#18
+554#Foudroyante de Bruxelles (Blanche) (=Student)#4,5#64#53
+555#Foudroyante framboise (=Lindemans framboise)#3,5#67#31
+556#Foudroyante gueuze (=Lindemans gueuze gefilterd)#5#67#22
+557#Foudroyante kriek (=Lindemans kriek)#4#67#31
+558#Foudroyante myrtille#3,5#67#31
+559#Foudroyante peche (=Pecheresse)#3#67#31
+560#Four chapitre  (=Floreffe blonde)#7#64#18
+565#Francorchamps (Blanche de) (=Student)#4,5#64#53
+566#Frenette#3#117#8
+567#Freutche (=1900 (Saison))#5#64#18
+568#Frontaliere  (=Mengsel La Folie/Saison de Pipaix)#7,5#117#15
+569#Fumee d'Anvers#7#120#44
+570#Gaillarde de "la Posterie" cuvee spec. (=Bons voeux (Avec les -- de la brasserie))#9,5#37#21
+571#Gala pils (=Haacht pils)#4,7#51#42
+572#Galmaarden dubbel Meesters bier#7#71#14
+574#Galmaarden tripel Meesters bier#7,5#71#59
+575#Gambrinus bock (=Sernia bock)#3,8#58#51
+576#Gambrinus pils (=Sernia pils)#4,6#58#42
+577#Gapers bier#7#118#18
+578#Gauloise ambree#6,5#17#6
+579#Gauloise blonde#7#17#15
+580#Gauloise brune#9#17#36
+581#Gaumaise blonde#5#48#33
+582#Gaumaise brune#5#48#14
+583#Gaverhopke ('t) blond#8#47#15
+584#Gaverhopke ('t) bruin 12#12#47#36
+585#Gaverhopke ('t) bruin 8#8#47#14
+586#Gayette  (=St. Benoit brune)#6,5#17#18
+587#GB special amber (=Op-ale)#5#100#6
+588#GB tafelbier tripel (=Bavaro)#3,4#51#51
+591#Geants (Speciale des) (=Bonne Esperance (Abbaye de))#8#64#15
+592#Geldonia blonde  (=St. Benoit blonde)#6,5#17#33
+593#Geldonia brune  (=St. Benoit brune)#6,5#17#14
+594#Gembloux (Biere de l'abbaye de) (=Bonne Esperance (Abbaye de))#8#64#15
+595#Gentse tripel#8#54#59
+597#Gigi double blonde#1,17#48#51
+598#Gigi speciale#2,38#48#51
+599#Gildenbier#7#51#14
+600#Ginder ale#5,1#6#6
+601#Girardin framboise#5#49#55
+602#Girardin gueuze 1882#5#49#55
+603#Girardin kriek 1882#5#49#55
+604#Girardin kriekenlambik#5#49#56
+605#Girardin lambik#5#49#56
+607#Godefroy#5,8#74#14
+608#Godefroy premium pils (=Bel pils)#5,3#74#42
+609#Goen (Ne) (=Augustijn)#8#14#15
+610#Goldburg#5,2#8#42
+612#Golden dragon beer (=Gulden Draak)#10,5#14#21
+613#Golden Kenia#5#56#42
+614#Golding Campina#5#69#42
+617#Gouden Carolus#7,6#4#14
+620#Gougnies  (=Moinette blonde)#8,5#37#15
+621#Grand bi-ere de blondine#6#104#33
+623#Grande Axhoise#6,5#76#18
+626#Green's beer#8#44#15
+628#Grenadiere speciale ambree#7,5#72#15
+629#Grimbergen blond#6,5#111#33
+630#Grimbergen dubbel#6,5#111#14
+631#Grimbergen optimo bruno#10#111#36
+632#Grimbergen tripel#8,13#111#59
+633#Grisette#6#100#18
+634#Grisette biere du cayoteu (=Super 64)#5#98#18
+635#Gueule noire  - Koempelbier (=Villers Saint-Ghislain brune (Speciale))#8#98#15
+636#Gueuze framboisee des Ardennes (=Timmermans framboise lambic)#4#108#31
+637#Guillotine#9#56#36
+638#Gulden Draak#10,5#14#36
+639#Guldenberg#8,5#85#15
+641#Haacht blonde#1,5#51#51
+642#Haacht export (=Haacht pils)#4,7#51#42
+643#Haacht pils#4,7#51#42
+644#Haecht witbier#4,85#51#53
+645#Halloween pumpkin ale (=Pumpkin ale)#7#120#18
+647#Hanssens gueuze#5#53#55
+648#Hanssens kriek#5#53#55
+649#Hapkin#8,5#68#15
+651#Harelbekenaar van de abdijhoeve - pater (=Kapittel pater (Het))#6,5#113#14
+652#Harelbekenaar van de abdijhoeve - wit (=Watou's wit bier)#5#113#53
+655#Heerenbier#8#18#14
+656#Hei-kneuter#5,4#125#18
+658#Heliante#8#44#15
+659#Helios#2,7#6#42
+660#Hellekapelle#5#12#33
+661#Helleketelbier#7#12#33
+662#Helles export#4#99#42
+664#Hercule#9#40#21
+665#Hercule a Vapeur  (=Vapeur rousse )#8#117#15
+666#Heren van Bets (De) (=Silly (Saison))#5#98#18
+667#Hertog Jan pilsener#5#6#42
+668#Hesbaye  ambree#7,5#76#6
+669#Hesbaye  blanche#3,8#76#53
+670#Hesbaye  blonde#6,5#76#33
+671#Hesbaye  brune#9#76#36
+672#Hesbaye  cuvee speciale#6,5#76#18
+673#Hesbaye  noire#7#76#18
+675#Hesbaye  saison#7#76#45
+677#Heymissen dubbel (Abdijbier van)#8#122#14
+678#Heymissen tripel (Abdijbier van)#9#122#59
+682#Hoekse witte#5#112#53
+683#Hoeve bier#6,5#107#18
+684#Hoge Bi-er#6#104#18
+686#Honnelles (Blanche des)#6#91#53
+687#Hoofse gaffel (=Lamoral Degmont)#8#112#15
+688#Hoppe ambachtelijke pils (=Sparta pils)#5#14#42
+689#Horse ale#4,8#6#6
+690#Hotteuse 5#5#93#62
+691#Hotteuse grand cru#8#93#15
+693#Houlette  (=Regal (Saison))#6#17#18
+694#Hure  (=Saxo)#7#23#18
+695#Huyghe blond#2#56#51
+696#Huyghe bruin#2#56#51
+697#Huyghe export#4#56#42
+698#Huyghe faro#2#56#51
+699#Ichtegem's oud bruin#4,9#107#62
+700#Iguanodon (=Fakir)#6,8#13#18
+701#Incartade  (=Mengsel La Folie/Saison de Pipaix)#7,5#117#15
+702#Interpils (=Wieze pils)#0#125#42
+705#Jack-Op#5#11#60
+709#Jamelovienne  (=Mengsel La Folie/Saison de Pipaix)#7,5#117#15
+710#Jan Buuc (=Katje special)#5#65#18
+711#Jan van Gent#5,5#66#18
+716#Jobarde (=Vapeur en folie )#8#117#15
+717#John Martin's special#6,1#57#6
+720#Joyeuse blonde  (=Moinette blonde)#8,5#37#15
+721#Joyeuse brune  (=Moinette brune)#8,5#37#36
+723#Judas#8,5#111#15
+724#Julius#8,7#6#15
+725#Jumeaux ambree (Biere des)#6,5#44#6
+726#Jumeaux blonde (Biere des)#6,5#44#33
+727#Jumelage (La biere du)#9#91#21
+729#Jupiler#5,26#58#42
+730#Jupiler NA#0,1#6#3
+731#K.I.H.O. X-mas blond#0#59#33
+732#K.I.H.O. X-mas bruin#0#59#14
+737#Kamilleken (=Lamoral Degmont)#8#112#15
+739#Kapel van Schoor (=St. Sebastiaan grand cru)#7,6#105#15
+740#Kapittel abt (Het)#10#113#36
+741#Kapittel dubbel (Het)#7#113#14
+742#Kapittel pater (Het)#6,5#113#14
+743#Kapittel prior (Het)#9#113#36
+744#Karibik pils#5#56#42
+745#Karlsquell pils (=Kwik pils)#4,8#70#42
+746#Karmeliet tripel#8#20#59
+748#Kasteel van Ramegnies-Chin (Bier v/h)#12#43#36
+749#Kasteelbier gouden triple#10#114#59
+750#Kasteelbier Ingelmunster#11#114#36
+751#Kasteelbier Ooidonk (=Kasteelbier Ingelmunster)#11#114#36
+752#Katje special#5#65#6
+753#Keerse tripel (=St. Sebastiaan grand cru)#7,6#105#59
+754#Keizersberg abdijbier (=Bornem tripel)#9#14#21
+755#Kelmeser (Der blonde) (=Fakir)#6,8#13#33
+756#Kelottes 75cl#8#17#15
+757#Kempenaar (Ne)#9#113#21
+758#Kerelsbier donker (=Katje special)#5#65#14
+759#Kerelsbier licht (=Sasbrau)#6#65#33
+761#Kerstbie(r)#8#12#14
+762#Kerstbol#7,5#39#14
+763#Kerstklok#8#18#14
+764#Kerstpater#6,5#112#14
+765#Keyport beer (=Safir)#5#6#42
+766#Keyser (=Pax pils)#5#103#42
+767#Kilo (de)#5#49#56
+768#King's pils (=Facon pils)#4,7#43#42
+769#Kirally (=Pipaix (Saison de))#6,5#117#18
+771#Klinkaert#5#14#33
+772#Klooster Zusters Annonciaden (=St. Sebastiaan grand cru)#7,6#105#15
+773#Kluyserbier (=Poorter)#6,5#105#18
+774#Kortessems blondje#7#76#53
+778#Kronenbourg#4,8#2#42
+779#Kruger export#4,8#6#42
+780#Kurstenbrau (=Vega pils)#5#58#42
+781#Kuurnse bruine#7#8#14
+782#Kuurnse witte#7#8#53
+786#Lamoral Degmont#8#112#15
+787#Lamoral tripel#8#112#59
+788#Lamot pilsor#5,2#6#42
+789#Laplaignoise  (=Moinette blonde)#8,5#37#15
+792#Lazarus bier#7#104#14
+793#Lefebvre blonde#1,5#64#51
+794#Lefebvre brune#1,7#64#51
+795#Lefebvre triple blonde#3#64#51
+796#Leffe birra rossa#6,2#102#18
+797#Leffe blonde#6,5#102#33
+798#Leffe brune#6,3#102#14
+799#Leffe radieuse#8,2#102#36
+801#Leffe vieille cuvee 8#8,2#102#36
+802#Lembeek's#2#19#8
+803#Lentebier#5,5#17#18
+804#Leroy blond#1,8#65#51
+805#Leroy bruin#1,8#65#51
+806#Leroy christmas#6,8#65#46
+807#Leroy stout#4#65#49
+808#Leuvendige witte (Nen)#4,5#33#53
+811#Lichtervelds blond#8#32#15
+812#Liefmans frambozenbier#5,4#66#61
+813#Liefmans gluhkriek#6,5#66#61
+814#Liefmans goudenband#8#66#14
+815#Liefmans kriek#6,5#66#61
+816#Liefmans odnar#4,5#66#61
+817#Liefmans oud bruin#5#66#61
+818#Limburgse witte#5#103#53
+819#Lindemans cassis#4#67#31
+820#Lindemans faro lambic#4,75#67#54
+821#Lindemans framboise#3,5#67#31
+822#Lindemans gueuze gefilterd#5#67#22
+823#Lindemans gueuze ongefilterd#5#67#55
+824#Lindemans kriek#4#67#31
+825#Lindemans kriekenlambik#4#67#56
+826#Lindemans lambik#4#67#56
+827#Lion (Biere du)#8#119#15
+829#Livinus blonde (=Kapittel abt (Het))#10#113#21
+830#Livinus brune (=Kapittel prior (Het))#9#113#36
+831#Loburg#5,7#6#42
+833#Lokernaere (E) (=Yperman)#6#65#18
+835#Loteling blond#8#120#15
+836#Loteling bruin#7#120#14
+837#Loterbol#5,2#39#33
+839#Louvoise  (=St. Benoit blonde)#6,5#17#18
+840#Louwaege dubbel blond#1,4#68#51
+841#Louwaege export#4,6#68#42
+842#Louwaege faro#1,4#68#51
+843#Louwaege stout#4,8#68#49
+844#Louwaege's pils#4,5#68#42
+845#Louwke Poep#5#14#6
+846#Lowiden#5#113#18
+847#Lowie Kators#9#14#21
+848#Lowie V (=Cnudde Oudenaards bruin)#4,7#27#62
+849#Lucifer#8#87#15
+854#Maerlant (=Bornem tripel)#9#14#59
+855#Maes cool beer#5,7#69#26
+856#Maes export#4,5#69#42
+857#Maes pils#5,1#69#42
+858#Magonette#8,2#109#15
+859#Malmedy blonde (Biere speciale de) (=Floreffe blonde)#7#64#33
+860#Malmedy brune (Biere speciale de) (=Floreffe double)#7#64#14
+861#Malognarde blonde#7,5#13#15
+862#Malognarde brune  (=Reserve Marie de Hongrie)#8,7#13#36
+863#Malonne (Abbaye de - Abdij van) bruin bier#6#51#18
+864#Maltosa#1,4#51#51
+865#Manneken Pis (=Oud Zottegems bier)#6,5#29#18
+866#Manou des Sources (=Floreffe blonde)#7#64#18
+869#Marchande tripel#0#21#59
+870#Marckloff#6,5#45#18
+871#Marckloff Valentin#6,5#45#18
+872#Maredsous 10#9,5#74#36
+873#Maredsous 6 blond#6,8#74#33
+874#Maredsous 6 donker#6,4#74#14
+875#Maredsous 8#8#74#14
+876#Marlagne blanche#5,5#72#53
+877#Marlagne blonde#5,5#72#33
+878#Marquise#5,7#56#18
+879#Mars (Biere de)#5#6#35
+882#Martens pils#5#70#42
+883#Martens tafelstout#0,5#70#51
+885#Match blond tafelbier#1,5#56#51
+886#Match bruin tafelbier#1#56#51
+887#Match tripel tafelbier#3,4#56#51
+888#Mateen Belgian ale triple#9#56#59
+889#Mater wit bier#5#93#53
+891#Mc Chouffe#8,5#1#36
+892#Mc Ewans christmas#7,2#57#46
+893#Mc Ewans scotch ale#7,2#57#46
+894#Mc Gregor#6,5#56#18
+895#Mechelschen bruynen#6,3#4#14
+897#Meneer#7,5#96#11
+898#Mengbier#5#10#60
+899#Mengsel La Folie/Saison de Pipaix#7,5#117#15
+900#Menhir (Blonde du)#6,5#64#33
+901#Mercator#5#120#14
+903#Minty#4,3#56#33
+904#Miroir christmas#8#73#14
+905#Miroir paasbier#6,5#73#18
+906#Miroir speciale#4,5#73#53
+907#Miroir speciale dark#5,5#73#14
+908#Moeder Overste (=Bonne Esperance (Abbaye de))#8#64#15
+909#Moine (triple)#8#17#59
+910#Moinette biolegere/zacht#3,5#37#8
+911#Moinette biologique#7,5#37#15
+912#Moinette blonde#8,5#37#15
+913#Moinette brune#8,5#37#36
+914#Moinette des iguanodons de Bernissart (=Moinette blonde)#8,5#37#15
+915#Moinette des Sorcieres de Warquignies  (=Moinette blonde)#8,5#37#15
+916#Molenbier#5,3#95#18
+917#Molenbier (=Bokkereyer)#5,8#103#18
+918#Molenbier (Tessenderlo) (=St. Sebastiaan grand cru)#7,6#105#15
+922#Moneuse#8#15#14
+923#Moneuse speciale noel#8#15#14
+925#Mont Saint-Aubert#8#21#14
+926#Montagnarde#9#91#36
+927#Mort Subite cassis#4#60#31
+928#Mort Subite framboise#4#60#22
+929#Mort Subite gueuze fond#6#60#55
+930#Mort Subite gueuze gefilterd#4#60#22
+931#Mort Subite kriek#4#60#22
+932#Mort Subite peche#4#60#31
+934#Munck pils (=Haacht pils)#4,7#51#42
+940#N'Ice Chouffe#10#1#36
+941#Namur (Blanche de)#4,5#17#53
+942#Napoleon#8#100#14
+943#Nationale  (=Mengsel La Folie/Saison de Pipaix)#7,5#117#15
+944#Neiges (Blanche des)#4#56#53
+945#Neuvilloise#8#64#15
+946#Ninoviet (=Noel-christmas-Weihnacht)#7,2#118#15
+951#Noel (Blanche de)#4#17#53
+952#Noel (Speciale blanche)#0#91#53
+953#Noel (Speciale)#6,4#100#14
+954#Noel de Silenrieux#7,5#97#14
+955#Noel-christmas-Weihnacht#7,2#118#15
+956#Nonettes (Biere des)#7,2#56#15
+957#Nostra Domus (Nen)#5#33#18
+959#Nounou (=Augustijn)#8#14#15
+960#O Mac Kot (Biere de Blaton) (=Mengsel La Folie/Saison de Pipaix)#7,5#117#15
+961#O'Connell's Dublin ale#5,7#56#4
+962#Obigeoise#6,1#43#18
+963#Ochtend kriek (Nen)#7#33#15
+965#Oelegems kruikenbier (=St. Sebastiaan grand cru)#7,6#105#15
+966#Oelegems Titsenbier (=Moinette biologique)#7,5#37#15
+967#Oeral#6#32#11
+968#Oerbier#7,5#32#14
+971#Old Musketeer#7#65#14
+972#Oliver Twist (Nen) (=Toison d'or (triple))#7#4#59
+973#Op-ale#5#100#6
+974#Ops-ale#5,5#103#6
+975#Oregon rodeo beer#4,3#105#8
+976#Orval#6,2#78#11
+977#Oud Beersel gueuze#6#116#55
+978#Oud Beersel lambik#5,7#116#56
+979#Oud Kriekenbier#6,5#29#18
+980#Oud Zottegems bier#6,5#29#33
+981#Oud Zottegems bier hergist#6,8#29#33
+983#Oudenaards wit tarwebier#4,8#26#53
+984#Oudenburgs abdijbier#8#104#14
+985#Oudenburgs bruin#8#104#14
+986#Oudenburgse tripel#0#104#59
+988#Paasbier#8#104#14
+990#Pacques (Brassin de)#6#76#18
+993#Palm (Dobbel)#5,6#81#6
+994#Palm (Speciale)#5,1#81#6
+995#Palm green#0,1#81#3
+997#Paques (Biere de)#7#13#14
+998#Paranoia groen#6,2#120#18
+999#Paranoia roze#6,2#120#18
+1001#Parbo bier (=Pax pils)#5#103#42
+1002#Park (Abdij van 't) bruin#6,5#111#14
+1003#Pastorijpoort Balen/Olmen (=St. Sebastiaan grand cru)#7,6#105#15
+1004#Pater brune (=Maltosa)#1,4#51#51
+1008#Pater Van Damme#7,5#82#14
+1009#Paulus#5#65#62
+1010#Pauwel Kwak#8#20#15
+1011#Pave de l'Ours (Le)#8,5#13#36
+1012#Pax pils#5#103#42
+1013#Pecheresse#2,5#67#31
+1014#Pecheresse (Petite) (=Pecheresse)#3#67#31
+1015#Pee Klak grand cru (=Zottegemse grand cru)#8,4#29#15
+1016#Pee Klak Moorsels bier#5,4#107#18
+1017#Pee Klak special#6,8#29#18
+1019#Pellainoise#8#76#15
+1024#Perle d'Hastiere  (=Bonne Esperance (Abbaye de))#8#64#15
+1025#Pertotale faro#6#19#19
+1026#Peter Benoit#5#65#14
+1029#Petouille  (=Mengsel La Folie/Saison de Pipaix)#7,5#117#15
+1030#Petrus (Triple)#7,5#8#59
+1031#Petrus oud bruin#5,5#8#62
+1032#Petrus speciale#5,5#8#6
+1034#Pick-up pils#4,8#121#42
+1035#Piedboeuf blonde#1,7#6#51
+1036#Piedboeuf blonde#1,7#58#51
+1037#Piedboeuf dubbel - foncee#1,5#6#51
+1038#Piedboeuf dubbel - foncee#1,5#58#51
+1039#Piedboeuf tripel - triple#3,8#58#51
+1041#Pierreuse#8#76#14
+1043#Pint pilsener (=Premium pilsener)#5#70#42
+1044#Pipaix (Saison de)#6,5#117#45
+1046#Pir'eye di Licint 6.5 (Li) (=Fakir)#6,8#13#18
+1047#Pir'eye di Licint 9 (Li) (=Reserve Marie de Hongrie)#8,7#13#15
+1048#Piraat#10,5#14#21
+1050#Pissenlit#6#44#18
+1051#Platzen pils (=Sernia pils)#4,6#58#42
+1053#Ploquette#7,5#94#15
+1054#Poiluchette blanche de Thy  (=Neiges (Blanche des))#4#56#53
+1055#Poiluchette blonde#7,5#56#15
+1056#Poiluchette brune#7,5#56#14
+1057#Polderbier bitter#8#104#11
+1058#Polderbier fruitig#8#104#14
+1060#Pompeschitter (De)#5,3#65#42
+1062#Pontonnierke#7#104#14
+1063#Pony stout#5,5#8#49
+1064#Poorter#6,5#105#14
+1065#Poperings hommelbier#7,5#113#15
+1066#Postel dobbel#7#100#14
+1067#Postel kerstbier#8,5#100#36
+1068#Postel tripel#8#100#59
+1069#Praile (Blonde de la)#7,5#83#15
+1071#Praile (Saison de la)#0#83#45
+1073#Premium pilsener#5#70#42
+1074#Prik pils#4,9#93#42
+1075#Prima#3#65#51
+1076#Primeur kriek#5,2#11#22
+1077#Primus#5#51#42
+1078#Prisma pils (=Haacht pils)#4,7#51#42
+1079#Prosit pils#4,8#20#42
+1081#Pumpkin ale#7#120#15
+1082#Punch blond#6,1#43#33
+1083#Punch donker#6,1#43#14
+1084#Quenast#5#64#42
+1085#Queue de charrue#5,2#118#18
+1086#Queue de charrue blonde (=Augustijn)#8#14#15
+1087#Queue de chat#8#44#15
+1088#Quintine#8#40#11
+1090#Quintine de noel#8,5#40#15
+1091#Rabat  (=Mc Chouffe)#8,5#1#15
+1092#Rabenhaubt witbier (=Watou's wit bier)#5#113#53
+1093#Rafexport#4,5#28#42
+1094#Raisinoise#5,2#64#18
+1096#Ras super pils (=Pax pils)#5#103#42
+1101#Redor pils#6,2#37#42
+1102#Regain (blanche)#6#91#53
+1103#Regal (Saison)#6#17#45
+1104#Regal christmas#9#17#36
+1105#Reinaert amber#7#84#18
+1107#Reinaert tripel#9#84#59
+1109#Rendux ambree#7#3#6
+1110#Rendux brune#7#3#14
+1111#Reserve Marie de Hongrie#8,7#13#36
+1112#Reserve Marie de Hongrie speciale Noel#9#13#36
+1113#Retro oude methode#7#56#18
+1114#Ridder#2,2#65#8
+1115#Rijsel triple beer ambree (=Piraat)#10,5#14#21
+1116#Riva baviere#2#87#51
+1117#Riva bruine speciale#2#87#51
+1118#Riva pils#5#87#42
+1119#Riva triple abdij#7,2#87#59
+1120#Roberg classic#8#88#15
+1121#Roberg dark#8#88#14
+1122#Roberg junior#5#88#42
+1123#Rochefort 6#7,5#89#14
+1124#Rochefort 8#9,2#89#36
+1125#Rochefort 10#11,3#89#36
+1126#Rochefortoise ambree#8#90#15
+1127#Rochefortoise blonde#6,2#90#33
+1129#Rochelle#7#13#18
+1130#Rochus#4,7#95#14
+1131#Rocs (Abbaye des)#9#91#36
+1133#Rocs speciale noel (Abbaye des)#9#91#36
+1134#Rodenbach#5#92#62
+1135#Rodenbach grand cru#6,5#92#62
+1136#Roman (Special)#5,5#93#61
+1137#Roman bleek#1,2#93#51
+1138#Roman bruin#1,2#93#51
+1139#Roman dobbelen bruinen#8#93#14
+1140#Roman export#4,5#93#42
+1141#Roman Oudenaards#5,05#93#61
+1142#Romy luxe#5,6#93#42
+1143#Romy pils#5,1#93#42
+1144#Ronsies Bommelsbier (=Moinette blonde)#8,5#37#15
+1145#Roosenberg (Abdij) (=Bornem tripel)#9#14#21
+1146#Rose de Gambrinus#5#22#56
+1147#Royal pils (=Riva pils)#5#87#42
+1148#Royal type ale#5,2#125#6
+1149#Royale blonde#1,2#98#51
+1150#Rubbel sexy lager#5#56#42
+1151#Rubens gold#4,3#111#33
+1152#Rubens rood#4#17#53
+1153#S-pils#5#112#42
+1154#Safir#5#6#42
+1156#Samson (L'ambree du)#8,5#72#15
+1157#Samwell pils (=Haacht pils)#4,7#51#42
+1158#San Michael triple#6,8#56#59
+1159#Sanctus#6,8#74#14
+1162#Sas export#4#65#42
+1163#Sas pils#4,7#65#42
+1164#Sasbrau#6#65#13
+1168#Saxo#7#23#33
+1169#Scaldienne#5,5#43#18
+1170#Schaerbeekoise#9#91#21
+1171#Schavuit dubbel (=Bornem dubbel)#8#14#14
+1172#Schavuit tripel (=Bornem tripel)#9#14#59
+1174#Schrans pater (De)#0#56#51
+1175#Schulten Brau#4,9#70#42
+1177#Seigneurie  (=Floreffe blonde)#7#64#18
+1179#Serclaes (t')#7#64#33
+1180#Sernia bock#3,8#58#51
+1181#Sernia brune (=C.T.S. Scotch)#7,5#6#14
+1182#Sernia pils#4,6#58#42
+1183#Setz brau#6#6#42
+1185#Sexy dubbel lager#5#120#42
+1186#Sezoens blond#6#70#33
+1187#Sezoens Europe#6,5#70#33
+1188#Sezoens quattro#7#70#5
+1189#Sherry Poesy old Beersel#7#116#55
+1191#Shopping (Blanche du) (=Charleroi (Blanche de))#5#21#53
+1192#SI Boune blonde (=Moine (triple))#8#17#15
+1193#Si Boune brune (=St. Benoit brune)#6,5#17#14
+1194#Silbrau dort urtyp#6,2#98#13
+1196#Silly (Bock)#3#98#51
+1197#Silly (Saison)#5#98#45
+1198#Silly (Scotch)#8#98#46
+1199#Silly pils#5#98#42
+1200#Silly triple bock#4#98#51
+1201#Sinaaise bok (=Bornem tripel)#9#14#36
+1202#Sinpalsken#8#84#15
+1203#Sioen Maeseycker kloosterbier#11#14#36
+1206#Ski-rodt biermuseum blonde (=St. Benoit blonde)#6,5#17#33
+1207#Ski-rodt biermuseum brune (=St. Benoit brune)#6,5#17#14
+1208#Slag lager pils#4,8#99#42
+1209#Slaghmuylder's kerstbier#5,5#99#42
+1210#Slaghmuylder's oud bier#2,5#99#51
+1211#Slaghmuylder's paasbier#5,5#99#42
+1212#Slaghmuylder's tafel hell#2,5#99#51
+1213#Slijtersbier#7#126#18
+1214#Sloeber#7,5#93#14
+1216#Slypke  (=Kapittel pater (Het))#6,5#113#18
+1217#Smisje banaan ('t)#6#86#18
+1218#Smisje dubbel ('t)#9#86#36
+1219#Smisje honingbier blond ('t)#6#86#33
+1220#Smisje honingbier donker ('t)#6#86#14
+1221#Smokkelaar (De) (=St. Paul triple)#7,6#105#15
+1222#Snoek (=Vlotbier)#6,9#32#18
+1223#Soleilmont double#6,2#64#14
+1225#Soy (Blanche de)#0#44#53
+1226#Spar pils#4,8#2#42
+1227#Sparta pils#5#14#42
+1228#Spijtighen spelduvel (Den)#6,5#98#18
+1229#St. Adriaan kruikenbier dark (=St. Sebastiaan dark)#6,9#105#14
+1230#St. Adriaan kruikenbier grand cru (=St. Sebastiaan grand cru)#7,6#105#15
+1231#St. Adriaans kerstbier#8#33#14
+1232#St. Adriaansbier#7#33#18
+1234#St. Amandus blond Kortenbergs abdijbier#5#30#33
+1235#St. Amandus bruin Kortenbergs abdijbier#8#30#14
+1236#St. Arnoldus triple (=Riva triple abdij)#7,2#87#59
+1237#St. Benoit blonde#6,5#17#33
+1238#St. Benoit brune#6,5#17#14
+1239#St. Benoit brune (brassin special)#8,5#17#36
+1240#St. Benoit triple#8#17#59
+1241#St. Bernardus abt 12#10#101#21
+1242#St. Bernardus blond#6#101#33
+1243#St. Bernardus pater 6#6,7#101#14
+1244#St. Bernardus prior 8#8#101#14
+1245#St. Bernardus triple#7,5#101#59
+1246#St. Berthuin brune#6,5#64#14
+1247#St. Christophe blonde (=Villers-St. Ghislain blonde (Speciale))#8#98#15
+1248#St. Christophe brune (=Villers Saint-Ghislain brune (Speciale))#8#98#14
+1249#St. Denise dark (=St. Sebastiaan dark)#6,9#105#14
+1250#St. Denise grand cru (=St. Sebastiaan grand cru)#7,6#105#15
+1252#St. Feuillien blonde 1,5 l#7,5#46#15
+1254#St. Feuillien brune 1,5 l#7,5#46#14
+1256#St. Feuillien cuvee de noel (=Affligem christmas ale)#9#100#21
+1257#St. Ghislain (Abbaye de) (=Beloeil (La biere de))#8,5#37#15
+1259#St. Hermes abdijbier#8#26#15
+1261#St. Hubert#9#91#21
+1264#St. Idesbald blond#6#56#33
+1265#St. Idesbald bruin#8#56#14
+1266#St. Idesbald triple#9#56#59
+1267#St. Jozef kriekenbier#5#103#18
+1268#St. Lamvinus#5#22#55
+1269#St. Laurent double (=St. Paul double)#6,9#105#14
+1270#St. Laurent triple (=St. Paul triple)#7,6#105#59
+1271#St. Leger (=Floreffe blonde)#7#64#18
+1272#St. Lenderik#9#91#21
+1273#St. Louis cassis kir royal#4,5#114#64
+1274#St. Louis framboise#4,5#114#64
+1275#St. Louis gueuze fond tradition lambic#5#114#65
+1276#St. Louis gueuze lambic#4,5#114#64
+1277#St. Louis kriek lambic#4,5#114#64
+1278#St. Louis peche lambic#3,5#114#64
+1279#St. Monon ambree#7#3#18
+1281#St. Paul blond#5,3#105#33
+1282#St. Paul double#6,9#105#14
+1283#St. Paul special#5,5#105#18
+1284#St. Paul triple#7,6#105#59
+1285#St. Quentin (Blanche de)#4,5#72#53
+1286#St. Quentin (Brune de)#4,5#72#14
+1287#St. Quentin (Brune de) (=St. Benoit brune (brassin special))#8,5#17#36
+1288#St. Quirin blonde  (=Fakir)#6,8#13#33
+1289#St. Quirin brune  (=Reserve Marie de Hongrie)#8,7#13#36
+1290#St. Sebastiaan dark#6,9#105#14
+1292#St. Sebastiaan grand cru#7,6#105#15
+1294#St.-Gabriel#7#44#18
+1295#Stadhuis Lommel (=St. Sebastiaan grand cru)#7,6#105#15
+1296#Star blond#0,5#51#2
+1297#Star bruin#0,5#51#2
+1298#Steedje kerstbier#7,9#104#14
+1299#Steedje special#7,9#104#15
+1300#Steedje tripel#7,9#104#59
+1302#Steenbrugge blonde (Abdij)#0#50#33
+1303#Steenbrugge dubbel (Abdij)#6,5#50#14
+1304#Steenbrugge tripel (Abdij)#8,5#50#59
+1305#Steendonk Brabants witbier#4,5#81#53
+1306#Steenezel (=Piraat)#10,5#14#21
+1309#Steinbrau pils#0#70#42
+1310#Stella Artois#5,2#6#42
+1311#Stella Artois dry#5,5#6#42
+1312#Stella Artois light#3,4#6#34
+1313#Stella Artois NA#0,1#6#3
+1314#Ster ale#4,7#105#6
+1316#Stille Nacht#8,1#32#36
+1317#Stoeren Bonk blond (=Augustijn)#8#14#15
+1318#Stoeren Bonk donker (=Bornem dubbel)#8#14#14
+1320#Stropken#9#54#36
+1321#Strubbe export#4,2#107#42
+1322#Strubbe faro#2#107#51
+1324#Strubbe oud bier#2,1#107#51
+1325#Strubbe pilsen#2,1#107#51
+1326#Strubbe stout#5#107#49
+1327#Student#4,5#64#53
+1328#Suma pils (=Sas pils)#4,7#65#42
+1329#Super 64#5#98#33
+1330#Super brune#1,17#48#51
+1331#Super des Fagnes (=Moine (triple))#8#17#15
+1333#Super Houblo (=Bonne Esperance (Abbaye de))#8#64#15
+1334#Super pils#5#107#42
+1335#Supra pils (=Safir)#5#6#42
+1336#Taupe (Biere de la) (=Mengsel La Folie/Saison de Pipaix)#7,5#117#15
+1337#Taverne 't Brughuis - Muizen (=St. Sebastiaan grand cru)#7,6#105#15
+1338#Taverne Old Time - Veltem (=St. Sebastiaan grand cru)#7,6#105#15
+1339#Tea beer#3#67#31
+1340#Ter Dolen#6#34#33
+1341#Ter Dolen winterbier#8#34#14
+1343#Teugelbier#5,5#107#18
+1345#Thimougienne#8#15#15
+1346#Thouroutenaere (=Hapkin)#8,5#68#15
+1348#Tielts Tanneke (=Brunehaut villages blond)#6,5#21#18
+1349#Tilffoise#7#76#6
+1350#Timmermans blanche-wit lambic#3,5#108#31
+1351#Timmermans cassis lambic#4#108#31
+1352#Timmermans faro lambic#3,5#108#19
+1353#Timmermans framboise lambic#4#108#31
+1354#Timmermans gueuze caveau#5,5#108#22
+1355#Timmermans gueuze lambic#5#108#22
+1356#Timmermans kriek lambic#4,5#108#31
+1357#Timmermans lambic#4,5#108#56
+1358#Timmermans Lambicus#4#108#31
+1359#Timmermans peche lambic#4#108#31
+1365#Toine  (=St. Benoit blonde)#6,5#17#18
+1366#Toison d'or (triple)#7,3#4#59
+1367#Tongerlo christmas#6#51#14
+1369#Tongerlo dubbel#7#51#14
+1370#Tongerlo dubbel blond#6#14#33
+1371#Tongerlo tripel#8,65#51#59
+1372#Tonneke#5#28#6
+1373#Topmolen - Balen (=St. Sebastiaan grand cru)#7,6#105#15
+1374#Torque de Frasnes#7,5#117#15
+1377#Tourtel malt#0,1#2#3
+1379#Tradition des Moines blonde (=St. Benoit blonde)#6,5#17#33
+1380#Tradition des Moines brune (=St. Benoit brune)#6,5#17#14
+1381#Trammelantbier#7#107#15
+1383#Tremeloos Damiaanbier#6,5#14#18
+1384#Trial#3,7#69#51
+1385#Tricentenaire  (=St. Benoit blonde)#6,5#17#18
+1388#Triplor (family's beer)#3,5#93#51
+1389#Troetsel-Niel pils (De)#5#65#42
+1390#Troublette#5#23#53
+1391#Tuborg#5,8#6#42
+1392#Tull bier#5,2#103#18
+1393#Turf (Nen) (=Augustijn)#8#14#15
+1394#TV bier#3#125#51
+1396#Ulricher lager#5#49#42
+1397#Unic-bier#3,17#48#51
+1400#Upper 19#7,5#125#15
+1401#Vaartlander 25cl & vat#7,5#122#15
+1402#Vaartlander 75cl#9#122#21
+1403#Vache (Biere) (=Mengsel La Folie/Saison de Pipaix)#7,5#117#15
+1404#Val d'Heure blonde 25 cl (=Regal (Saison))#6#17#18
+1405#Val d'Heure blonde 75cl (=Moine (triple))#8#17#15
+1406#Val d'Heure brune 25cl (=St. Benoit brune)#6,5#17#14
+1407#Val d'Heure brune 75cl (=St. Benoit brune (brassin special))#8,5#17#36
+1409#Val St. Lambert (Abbaye de) (=Moine (triple))#8#17#15
+1410#Val-Dieu (Triple de) (=Brigand)#9#114#59
+1413#Vander Linden faro#4#115#54
+1414#Vander Linden frambozenbier#7#115#55
+1415#Vander Linden lambik#6#115#56
+1419#Vapeur legere#4,5#117#8
+1420#Vapeur rousse#8#117#14
+1421#Vedett (=Bel pils)#5,3#74#42
+1422#Vega pils#5#58#42
+1423#Veltems kruikje ('t) grand cru (=St. Sebastiaan grand cru)#7,6#105#15
+1425#Vera dubbel blond#2#118#51
+1426#Vera export#4,3#118#42
+1427#Vera ouden bruinen#2#118#51
+1428#Vera pils#4,7#118#42
+1429#Vera special#2#118#51
+1430#Verabrau urtyp#4,7#118#13
+1432#Verhaeghe echte kriek#5,8#118#18
+1433#Verhaeghe triple blond#3,5#118#51
+1434#Verlinden extra bruin#0#56#51
+1435#Verlinden special blond#1,5#56#51
+1436#Verne en folie  (=Vapeur en folie )#8#117#15
+1437#Verne rousse  (=Vapeur rousse )#8#117#15
+1438#Verrebroekse Flip (=Augustijn)#8#14#15
+1439#Verte (tripel)#0#107#59
+1440#Very Diest#1#51#51
+1441#Vezonnoise  (=Mengsel La Folie/Saison de Pipaix)#7,5#117#15
+1442#Vi Keute di Nameur blonde (=Floreffe blonde)#7#64#33
+1443#Vi Keute di Nameur brune (=St. Benoit brune (brassin special))#8,5#17#36
+1444#Vichtenaar#4,9#118#62
+1446#Vieille Bon-Secours blonde#7,5#24#15
+1448#Vieille des Estinnes#7,5#37#15
+1449#Vieille Salme#8,5#1#15
+1450#Vieillotte du Hurlevent  (=Moinette blonde)#8,5#37#15
+1451#Vieux Bruges blanche (=Vlaamsch wit)#4,5#114#53
+1452#Vieux Bruges framboise (=St. Louis framboisee)#4,5#114#22
+1453#Vieux Bruges gueuze lambic (=St. Louis gueuze lambic)#4,5#114#22
+1454#Vieux Bruges kriek lambic (=St. Louis kriek lambic)#4,5#114#22
+1455#Vieux Bruxelles gueuze lambic (=St. Louis gueuze lambic)#4,5#114#22
+1456#Vieux Bruxelles kriek lambic (=Wieze kriek lambic)#5#125#22
+1457#Vieux Foudre faro#6#115#54
+1458#Vieux Foudre gueuze#6#115#55
+1459#Vieux Foudre kriek#6#115#55
+1460#Vieux Temps#5,5#6#6
+1462#Viking (=Mengsel La Folie/Saison de Pipaix)#7,5#117#15
+1463#Vile Cinse (=St. Benoit brune)#6,5#17#18
+1467#Villers dubbel amber#7#120#18
+1468#Villers Saint-Ghislain blonde (Speciale)#7,5#98#15
+1469#Villers Saint-Ghislain brune (Speciale)#8#98#14
+1470#Villers triple#8,5#120#59
+1472#Vitus spezialbier (=Villers Saint-Ghislain brune (Speciale))#8#98#15
+1473#Vive vie  (=Mengsel La Folie/Saison de Pipaix)#7,5#117#15
+1474#Vlaamsch wit#4,5#114#53
+1475#Vleteren alt#8#30#5
+1476#Vleteren super 8#8#30#14
+1478#Vondel#8,5#87#36
+1480#Waas klokbier tripel#8#18#59
+1482#Waase witte#5,5#18#53
+1484#Walrave export (=Pick-up pils)#4,8#121#42
+1485#Walrave extra tafelbier#2,5#121#51
+1488#Wastobbeke (=Couckelaerschen Doedel)#6#107#18
+1489#Watermolen (Balen) (=St. Sebastiaan grand cru)#7,6#105#15
+1490#Watneys red barrel#5,28#111#4
+1491#Watneys scotch#6,7#111#46
+1492#Watou's wit bier#5#113#53
+1493#Wellington red lion (=Watneys red barrel)#5,28#111#4
+1494#Wellington scotch ale (=Watneys scotch)#6,2#111#46
+1495#Wentelkriek (=Boon kriek)#5#19#55
+1497#West pils (=Sas pils)#4,7#65#42
+1499#Westmalle dubbel#7#123#14
+1500#Westmalle tripel#9#123#59
+1501#Westvleteren 12#11#124#36
+1502#Westvleteren 4#4#124#8
+1503#Westvleteren 6#6,2#124#14
+1504#Westvleteren 8#8,1#124#36
+1505#Wevelgemse tripel#0#85#59
+1507#Whitbread extra stout#4,5#6#49
+1508#Whitbread pale ale#5,7#6#4
+1509#Wiel's (=Safir)#5#6#42
+1510#Wieze christmas#7,5#125#14
+1511#Wieze export (=Wieze pils)#5#125#42
+1512#Wieze kriek lambic#4,8#125#60
+1513#Wieze pils#5#125#42
+1514#Wieze scotch 1866#7#125#46
+1516#Wilson mild stout#5,1#14#49
+1517#Witkap pater dubbele pater#7#99#14
+1518#Witkap pater stimulo#6#99#33
+1519#Witkap pater tripel#7,5#99#59
+1521#Wittekop (=Dentergems witbier - Riva blanche)#5#87#53
+1522#Woise  (=Vapeur en folie )#8#117#15
+1524#Wonder premium light beer#2,3#74#34
+1525#XX Bitter#0#85#11
+1526#Yersekes mosselbier#5#14#18
+1527#Yperman#6#65#18
+1528#Yves pils (=Super pils)#5#107#42
+1529#Zaal Kapelhof - Rillaar (=St. Sebastiaan grand cru)#7,6#105#15
+1530#Zafke (Blanche du) (=Student)#4,5#64#53
+1531#Zandberg brau#4,3#118#13
+1532#Zatte Bie (De)#9,5#12#36
+1533#Zedelgemse Martelaar (=Dikke Mathile)#6#107#18
+1534#Zelfde ('t)#6,1#20#18
+1535#Zerewever (=Gapers bier)#7#118#18
+1537#Zotskap (=Pater Lieven)#5,7#112#18
+1538#Zottegemse grand cru#8,4#29#15
+1539#Zulte#4,7#2#62
+1540#Zwarte Flesch (=Lamoral Degmont)#8#112#15
+1541#Zwijntje (=Augustijn)#8#14#15
+1542#Zwintje#6#74#6
+1543#Zwoele Berten (=Bornem dubbel)#0#14#14

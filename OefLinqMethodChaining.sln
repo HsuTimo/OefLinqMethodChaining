@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OefLinqMethodChaining", "OefLinqMethodChaining\OefLinqMethodChaining.csproj", "{23E7D666-2939-4624-8010-6A49692197BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{23E7D666-2939-4624-8010-6A49692197BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23E7D666-2939-4624-8010-6A49692197BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23E7D666-2939-4624-8010-6A49692197BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23E7D666-2939-4624-8010-6A49692197BA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E5768554-28B2-4D2B-9278-2617121F6372}
+	EndGlobalSection
+EndGlobal
